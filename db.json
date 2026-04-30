@@ -1,0 +1,30 @@
+{
+  "todos": [
+    {
+      "id": "4",
+      "title": "ta bort saker från listan",
+      "completed": false
+    },
+    {
+      "id": "5",
+      "title": "lägga till saker i listan",
+      "completed": false
+    },
+    {
+      "id": "7",
+      "title": "inse att jag inte är färdig med min todo app",
+      "completed": false
+    },
+    {
+      "id": "8",
+      "title": "tro att jag kan något i svelte men engentligen inte kan något men är bra på att låtsas!",
+      "completed": false
+    },
+    {
+      "title": "Mammas har en båt jag inte får hänga med i",
+      "completed": false,
+      "id": "bCI-FFr3Qds"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
